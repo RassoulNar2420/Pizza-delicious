@@ -1,0 +1,1 @@
+{"email":"mohamed.diagne@unchk.edu.sn","password":"12345678","name":"Mohamed","lastname":"Diagne","phone":"+34603258049","address":"C/ Manuel de Falla 3, 29004 Málaga","legalAccepted":false}

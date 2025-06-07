@@ -1,0 +1,24 @@
+{
+  "name": "pizza-delicious-vue",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^10.10.1",
+    "axios": "^1.7.2",
+    "dayjs": "^1.11.11",
+    "jwt-decode": "^4.0.0",
+    "pinia": "^2.1.7",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^5.2.8"
+  }
+}
